@@ -1,0 +1,6 @@
+c:\users\elena_tcherniak\documents\visual studio 2015\Projects\HT5\Task1_Collections\bin\Debug\Task1_Collections.exe.config
+c:\users\elena_tcherniak\documents\visual studio 2015\Projects\HT5\Task1_Collections\bin\Debug\Task1_Collections.exe
+c:\users\elena_tcherniak\documents\visual studio 2015\Projects\HT5\Task1_Collections\bin\Debug\Task1_Collections.pdb
+c:\users\elena_tcherniak\documents\visual studio 2015\Projects\HT5\Task1_Collections\obj\Debug\Task1_Collections.csprojResolveAssemblyReference.cache
+c:\users\elena_tcherniak\documents\visual studio 2015\Projects\HT5\Task1_Collections\obj\Debug\Task1_Collections.exe
+c:\users\elena_tcherniak\documents\visual studio 2015\Projects\HT5\Task1_Collections\obj\Debug\Task1_Collections.pdb
